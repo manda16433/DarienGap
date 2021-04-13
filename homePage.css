@@ -1,0 +1,36 @@
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+}
+
+body{
+  background-image: url("wood.png");
+}
+
+div{
+  filter: drop-shadow(10px 10px 10px #000000);
+}
+
+input{
+  width: 485px;
+  height: 100px;
+  position: fixed;
+  left: 37%;
+  top: 75%;
+  background-color: transparent;
+  border: black;
+}
+
+@media all and (max-width: 40em){
+	.center{width: 100%;}
+}
+
+@media all and (min-width: 40em){
+  .center{width: 50%;}
+}
+
+@media all and (min-width: 90em){
+  .center{width: 38%;}
+}

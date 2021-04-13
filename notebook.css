@@ -1,0 +1,43 @@
+body{
+  background-image: url("wood.png");
+}
+
+.yaviza{
+  width: 720px;
+  height: 720px;
+  position: absolute;
+  background-color: transparent;
+  border: none;
+  top: 5%;
+  left: 8%;
+}
+
+.laPalma{
+  width: 600px;
+  height: 600px;
+  position: absolute;
+  background-color: transparent;
+  border: none;
+  top: 11%;
+  left: 55%;
+}
+
+
+.arrow{
+  width: 60px;
+  height: 120px;
+  position: fixed;
+  background-color: transparent;
+  border: none;
+  left: 0%;
+}
+
+.notebook{
+  width: 150px;
+  height: 150px;
+  position: fixed;
+  background-color: transparent;
+  border: none;
+  left: 90%;
+  top: 85%;
+}

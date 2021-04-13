@@ -1,0 +1,63 @@
+body{
+  background-image: url('yaviza/ya2.jpg');
+
+}
+
+.move{
+  width: 300px;
+  height: 100px;
+  position: fixed;
+  background-color: #2f8c1b;
+  left: 65%;
+  top: 19%;
+  font-size: 35px;
+  color: white;
+  font-family: condor, sans-serif;
+  border: none;
+  text-shadow: 2px 2px black;
+}
+
+div{
+  position: fixed;
+  left: 69%;
+  top: 22%;
+  font-size: 35px;
+  color: white;
+  font-family: condor, sans-serif;
+  border: none;
+  text-shadow: 2px 2px black;
+}
+
+p{
+  width: 1000px;
+  height: 300px;
+  position: fixed;
+  font-family: condor, sans-serif;
+  text-align: center;
+  font-size: 45px;
+  left: 47%;
+  top: -4%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+.notebook{
+  width: 150px;
+  height: 150px;
+  position: fixed;
+  background-color: transparent;
+  border: none;
+  left: 90%;
+  top: 85%;
+}
+
+.arrow{
+  width: 60px;
+  height: 120px;
+  position: fixed;
+  background-color: transparent;
+  border: none;
+  left: 0%;
+}
