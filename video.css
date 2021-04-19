@@ -11,12 +11,12 @@ body{
 
 
 input{
-  width: 485px;
+  width: 300px;
   height: 100px;
-  position: fixed;
-  left: 37%;
-  top: 75%;
-  background-color: transparent;
+  position: absolute;
+  left: 83%;
+  top: 83%;
+  background-color: #2f8c1b;
   border: black;
 }
 
@@ -26,4 +26,15 @@ iframe{
   position: absolute;
   left: 18%;
   top: 3%;
+}
+
+div{
+  position: fixed;
+  left: 86.5%;
+  top: 86%;
+  font-size: 40px;
+  color: white;
+  font-family: condor, sans-serif;
+  border: none;
+  text-shadow: 2px 2px black;
 }
