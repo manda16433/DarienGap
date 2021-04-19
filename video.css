@@ -1,0 +1,29 @@
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+}
+
+body{
+  background-image: url("wood.png");
+}
+
+
+input{
+  width: 485px;
+  height: 100px;
+  position: fixed;
+  left: 37%;
+  top: 75%;
+  background-color: transparent;
+  border: black;
+}
+
+iframe{
+  width: 1200px;
+  height: 850px;
+  position: absolute;
+  left: 18%;
+  top: 3%;
+}
